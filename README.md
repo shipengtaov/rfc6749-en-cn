@@ -7,7 +7,7 @@
 
 ### Grant Types
 
-来自：[oauthlib/oauth2/rfc6749/grant_types/](https://github.com/oauthlib/oauthlib/tree/master/oauthlib/oauth2/rfc6749/grant_types)
+对比各个 Grant 的图以更直观地了解不同 grant 的区别。
 
 - Authorization Code Grant
 
