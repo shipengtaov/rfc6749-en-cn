@@ -106,3 +106,5 @@
 
 - [Difference between Client and User-Agent](https://stackoverflow.com/questions/35637601/difference-between-client-and-user-agent/35638254)
 
+按这里的描述来说 [rfc6749#section-9: Native Applications](https://tools.ietf.org/html/rfc6749#section-9), user-agent 即浏览器
+
