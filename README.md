@@ -129,3 +129,4 @@
 
 按这里的描述来说 [rfc6749#section-9: Native Applications](https://tools.ietf.org/html/rfc6749#section-9), user-agent 即浏览器
 
+- [OAuth 2 Simplified](https://aaronparecki.com/oauth-2-simplified/)
